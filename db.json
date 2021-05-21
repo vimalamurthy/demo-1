@@ -1,5 +1,7 @@
 {
-  "profile": {
-    "name": "typicode"
+  "student": {
+    "id" : 10,
+    "name" : "Vimala",
+    "department" : "App Dev"
   }
 }
